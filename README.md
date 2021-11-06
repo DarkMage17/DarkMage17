@@ -28,22 +28,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/DarkMage17/portfolio-sass/issues/2) in [DarkMage17/portfolio-sass](https://github.com/DarkMage17/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/DarkMage17/portfolio-sass/issues/2) in [DarkMage17/portfolio-sass](https://github.com/DarkMage17/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/DarkMage17/free-developer-resources/pull/11) in [DarkMage17/free-developer-resources](https://github.com/DarkMage17/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/DarkMage17/free-developer-resources/issues/11) in [DarkMage17/free-developer-resources](https://github.com/DarkMage17/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/DarkMage17/free-developer-resources/pull/10) in [DarkMage17/free-developer-resources](https://github.com/DarkMage17/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="DarkMage17's GitHub Stats" src="https://github-readme-stats.darkmage17.vercel.app/api?username=DarkMage17&show_icons=true&hide_border=true" />
-
-</details>
+## Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkmage17"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Darkmage17&show_icons=true&count_private=true"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkmage17"/></p>
