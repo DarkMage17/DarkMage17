@@ -35,7 +35,7 @@
 ---
 
 ## Stats
-<img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=Darkmage17&show_icons=true&include_all_commits=true&hide_border=true" alt="Darkmage17's github stats"/>  <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkmage17&layout=compact&theme=swift&hide_border=true&hide=java"/>
+<img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=Darkmage17&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="Darkmage17's github stats"/>  <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkmage17&layout=compact&theme=swift&hide_border=true&hide=java"/>
 <br>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkmage17"/>
